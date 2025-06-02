@@ -1,0 +1,31 @@
+select{
+    background:rgb(85, 184, 164);
+    border: none;
+    border-radius: 4px;
+}
+
+h3 {
+    text-align: center;
+    color:rgb(7, 78, 64);
+    font-size: 20px;
+    line-height: 0.2em;
+}
+body {
+    font-family: sans-serif;
+    width: 300px;
+    padding: 10px;
+    background:rgb(85, 184, 164)
+  }
+  
+  
+  button {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    background:rgb(7, 78, 64);
+    border: none;
+    border-radius: 4px;
+    font-style: bold;
+  }
+  
+  
